@@ -1,0 +1,13 @@
+Definição da entrada.txt
+
+Primeiro o algoritmo define a topologia na seguinte ordem
+
+tamanho da entrada | qnt de camadas contando com a ultima | valor do bias | qnt de neuronios em cada camada | todos os pesos de todos os neuronios em ordem com o bias sendo o primeiro peso
+
+taxa de aprendizagem | numero maximo de iterações | limiar do erro aceitavel | função de ativação [(1) degrau (2) sigmoide]  | 
+
+
+
+definir a matriz de treinamento no modelo
+quantidade de linhas de treinamento
+x1 x2 ... xn y
